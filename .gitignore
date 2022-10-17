@@ -3,3 +3,4 @@ old
 access.log
 nodemon.json
 Procfile
+.gitignore
