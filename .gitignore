@@ -1,2 +1,5 @@
 node_modules
 old
+access.log
+nodemon.json
+Procfile
