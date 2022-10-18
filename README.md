@@ -9,7 +9,6 @@ Full-Stack E-commerce Webapp complete with full-on CRUD functionality. Runs on N
 -   **Technology** : MVC pattern, Javascript, NodeJS, EJS templating engine for server-side rendering
 -   **Cloud Service Provider**: Heroku
 -   **Database** : MongoDB
--   **CDN for Image Data** : Cloudinary
 
 ---
 
