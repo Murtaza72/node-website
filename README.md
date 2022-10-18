@@ -42,7 +42,30 @@ Full-Stack E-commerce Webapp complete with full-on CRUD functionality. Runs on N
 
 ---
 
-## For Use
+## Run app
 
--   To compile the code, you will need to have NodeJS installed in your local environment.
--   You will to need to create a free mongodb account for database usage. Appropriate credentials then need to be inserted in app.js in the MONGODB_URI.
+1. Clone this repository
+2. Install packages with `npm install`
+3. Run the app with `npm start`
+
+---
+
+## Additional configuration
+
+### MongoDB
+
+To connect to the mongo database, it is necessary to set the proper credentials in a config file.
+
+### Configuration
+
+In **development** it is necessary to have the following configuration in the **nodemon.json** file:
+
+```json
+{
+    "env": {
+        "MONGO_USER": "YOUR USERNAME",
+        "MONGO_PASSWORD": "YOUR PASSWORD",
+        "MONGO_DEFAULT_DATABASE": "shop"
+    }
+}
+```
