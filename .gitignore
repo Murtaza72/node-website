@@ -2,3 +2,5 @@ node_modules/
 old/
 *.txt
 *.log
+/nodemon.json
+/.gitignore
