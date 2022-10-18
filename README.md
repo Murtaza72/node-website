@@ -2,9 +2,20 @@
 
 Full-Stack E-commerce Webapp complete with full-on CRUD functionality. Runs on NodeJS in the backend, with ExpressJS used for routing, ejs used for HTML templating and MongoDB used for database. Uses MVC for modern web standards and easier maintainance.
 
+---
+
+## Tools and Technologies:
+
+-   **Technology** : MVC pattern, Javascript, NodeJS, EJS templating engine for server-side rendering
+-   **Cloud Service Provider**: Heroku
+-   **Database** : MongoDB
+-   **CDN for Image Data** : Cloudinary
+
+---
+
 ## Functionality
 
-1. User can register themselves.
+1. User can register themselves on the website through the login form.
 
 2. **CRUD Operations**:
 
@@ -22,14 +33,13 @@ Full-Stack E-commerce Webapp complete with full-on CRUD functionality. Runs on N
 
 -   Website is immune to CSRF(Cross Site Forgery Request) attacks
 -   One user cannot create, update or delete data on behalf of other user
--   User can change their password through e-mail
 
 4. **Error**:
 
 -   404 page is served if user tries to load unrecognized route
 -   500 page is served if something wrong happens on the server side
 
-5. Pagination for proper visual aesthetic and to reduce the load on the DB.
+5. Pagination for better User Interface and Experience and also to reduce the load on the DB.
 
 ---
 
