@@ -12,7 +12,7 @@ const deleteProduct = btn => {
             return result.json();
         })
         .then(data => {
-            console.log(data);
+            // console.log(data);
             productElement.remove();
         })
         .catch(err => {
