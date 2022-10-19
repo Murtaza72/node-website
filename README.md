@@ -1,14 +1,14 @@
 # E-commerce WebApp
 
-Full-Stack E-commerce Webapp complete with full-on CRUD functionality. Runs on NodeJS in the backend, with ExpressJS used for routing, ejs used for HTML templating and MongoDB used for database. Uses MVC for modern web standards and easier maintainance.
+Full-Stack E-commerce Webapp complete with CRUD functionality. Runs on NodeJS in the backend, with ExpressJS used for routing, ejs used for HTML templating and MongoDB used for database. Uses MVC for modern web standards and easier maintainance.
 
 ---
 
 ## Tools and Technologies:
 
--   **Technology** : MVC pattern, Javascript, NodeJS, EJS templating engine for server-side rendering
+-   **Technology**: MVC pattern, Javascript, NodeJS, EJS templating engine for server-side rendering
 -   **Cloud Service Provider**: Heroku
--   **Database** : MongoDB
+-   **Database**: MongoDB
 
 ---
 
