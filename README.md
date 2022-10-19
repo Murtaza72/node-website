@@ -46,7 +46,7 @@ Full-Stack E-commerce Webapp complete with full-on CRUD functionality. Runs on N
 
 1. Clone this repository
 2. Install packages with `npm install`
-3. Run the app with `npm start`
+3. Run the app with `npm run start:dev`
 
 ---
 
